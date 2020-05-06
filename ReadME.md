@@ -18,6 +18,6 @@ This repository contains code for the project : face recognition . kNN is used a
   
   ### Results : 
   
-  <img src="./result.png" /> <br/>
-  <img src="./result1.png"/> 
+  <img src="./result.png" />
+ 
   
